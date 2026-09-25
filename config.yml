@@ -34,7 +34,7 @@ params:
   profileMode:
     enabled: true
     title: "<Title>" 
-    subtitle: "PhD Student in Computational & Systems Biology [@WUSTL](https://dbbs.wustl.edu)"
+    subtitle: "PhD Candidate in Computational & Systems Biology [@WUSTL](https://dbbs.wustl.edu)"
     imageUrl: "img/Watson_Caelan.jpg"
     imageTitle: "Profile Image of Caelan Watson"
     imageWidth: 300 
