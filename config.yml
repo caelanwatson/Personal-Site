@@ -1,6 +1,6 @@
-baseURL: https://caelanjmiller.github.io/
+baseURL: https://caelanwatson.dev/
 languageCode: en-us
-title: Caelan Miller
+title: Caelan Watson
 theme: PaperMod
 
 # Parameters for Profile PaperMod Theme
@@ -35,16 +35,16 @@ params:
     enabled: true
     title: "<Title>" 
     subtitle: "PhD Student in Computational & Systems Biology [@WUSTL](https://dbbs.wustl.edu)"
-    imageUrl: "img/Miller_Caelan.jpg"
-    imageTitle: "Profile Image of Caelan Miller"
+    imageUrl: "img/Watson_Caelan.jpg"
+    imageTitle: "Profile Image of Caelan Watson"
     imageWidth: 300 
     imageHeight: 300
 
   socialIcons:
     - name: github
-      url: "https://github.com/caelanjmiller"
+      url: "https://github.com/caelanwatson"
     - name: linkedin
-      url: "https://www.linkedin.com/in/caelan-miller"
+      url: "https://www.linkedin.com/in/caelan-watson"
     - name: email
       url: "mailto:caelanjmiller@wustl.edu"
     - name: orcid
